@@ -2,9 +2,9 @@
 
 # Hello there! 👋🏻 I am Prithvi KT ! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
-I am Prithvi KT  🙋🏻‍♂️, a Cook, Cat Lover, Front End Architect, Web Developer Evangelist.
+I am Prithvi KT  🙋🏻‍♂️, a Cook, Dog Lover, Front End Architect, Web Developer Evangelist.
 
-I am a Javascript Specialist, a Blockchain Enthusiast, an Author of tech books, a Speaker, a FullStack JavaScript Developer and I hold the top 0.05% Overall position in Stack Overflow.
+I am a Javascript Specialist, a Technology Enthusiast, an Author of tech books, a Speaker, a FullStack JavaScript Developer and I hold the top 0.05% Overall position in Stack Overflow.
 
 ### Check out my latest Live Streams on my [YouTube Channel](https://www.youtube.com/PrithviKT?sub_confirmation=1). Here are some of my active projects:
 
